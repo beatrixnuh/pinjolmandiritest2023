@@ -2,7 +2,7 @@
 This github contain high level design (HLD), Screenflow, Entity Relationship Diagram (ERD) and UML API for purpose of answering Bank Mandiri Selection Assignment
 
 Online Loan Application
-Hgih Level Design :https://app.diagrams.net/#DUntitled%20Diagram.drawio
+Hgih Level Design :https://app.diagrams.net/#G1oLWM5OHqaC1XHD6x0PUxvqeWq5Hi6jbp
 
 
 Screenflow :https://miro.com/app/board/uXjVMcztasc=/#tpicker-content
